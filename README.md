@@ -6,5 +6,6 @@ There is a snip code of microbit using java to send serial string.
 
 Feel free to use the code and comment about any problem you find.
 
-P/s: Change the name, key, and feeds from adafruit.io server when use
+P/s: Change the name, key, and feeds from adafruit.io server when using.
+
 
